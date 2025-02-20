@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.t1{
+ text-align: center;
+ background-color: rgb(173,161,146);
+ height: 50px;
+ 
+
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);  ;
+}
+button{
+    margin-left:10px ;
+}
+a:hover{
+    color: rgb(255, 255, 255);
+}
+.logo{
+   width: 100px;
+   position: absolute;
+   right: 0;
+ 
+}
+.img11{
+    height: 350px;
+     width: 1400px;
+    margin-top: 30px;
+}
+.h21{
+    text-align: center;
+    color: rgb(139, 90, 33);
+    font-weight: bolder;
+}
+.h41{
+    text-align: center;
+    color: rgb(114, 105, 96);
+}
+.butoon{
+    text-align: right;
+    
+}
+.iftar{
+    background-color: #7F5539;
+    font-weight: bolder;
+}
+
+button{
+    background-color: rgb(145, 126, 105);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.h31{
+    text-align: left;
+    color: rgb(139, 90, 33);
+    font-weight: bolder;
+}
+.p1photo{
+    text-align: right;
+}
+.h31p{
+    text-align: left;
+    color: rgb(95, 93, 90);
+}
+.p1{
+    font-weight: bolder;
+    text-align: left;
+}
+.ft1{
+ border-bottom: 1px dashed gray;
+}
+.a1{
+    text-align: center;
+    color:black;
+    font-weight: bolder;
+
+}
+.b1{
+    border-radius:15px;
+}
